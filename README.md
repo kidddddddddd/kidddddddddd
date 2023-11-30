@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kidddddddddd
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in cybersecurity and network engineer
 - 🌱 I’m currently learning programming language C++ on my college
 /*- 💞️ I’m looking to collaborate on ...*/
 /*- 📫 How to reach me ...*/
